@@ -16,7 +16,7 @@ p.lead{
 }
 
 header{
-	background: url(images/cabecera1.png), url(images/cabecera2.png);
+	background: url(images/iz1.png), url(images/de1.png);
 	background-position:left top, right top;
 	background-repeat: no-repeat;
 	background-size: auto 100%;
